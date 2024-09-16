@@ -1,3 +1,27 @@
 @charset "utf-8";
 /* CSS Document */
 
+.box1{
+	background-color: mediumspringgreen;
+	padding: 5%;
+	border: solid 3em #8C8CB9;
+	margin: 10vw;
+}
+
+.box2{
+	background-color: red;
+	padding: 5%;
+	border: solid 3em #000000;
+	margin: 10vw;
+}
+
+.box3 {
+	background-color: lightskyblue;
+	padding: 5%;
+	border: solid 3em #8C03F3;
+	margin: 10vw;
+}
+/* Add a border to images with the class 'bordered' */
+img.bordered {
+    border: 5px solid black; /* Adjust the width, style, and color of the border as needed */
+}
